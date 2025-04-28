@@ -1,3 +1,0 @@
-<?php
-echo '<?php highlight_file("challenge01.php"); ?>';
-?>
