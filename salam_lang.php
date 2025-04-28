@@ -1,0 +1,3 @@
+<?php
+    echo '<?php highlight_file("index.php"); ?>';
+?>
